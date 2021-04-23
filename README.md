@@ -5,5 +5,5 @@ Main Activity <br />
 ![alt text](https://github.com/marmir99/PerpetualCalendar/blob/main/phone1.png) <br />
 Sundays Activity <br />
 ![alt text](https://github.com/marmir99/PerpetualCalendar/blob/main/phone2.png) <br />
-Calculate distane between dates Activity <br />
+Calculate distance between dates Activity <br />
 ![alt text](https://github.com/marmir99/PerpetualCalendar/blob/main/phone3.png)
